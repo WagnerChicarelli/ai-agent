@@ -331,11 +331,11 @@ push/PR → Testes → Build Docker → ghcr.io/wagnerchicarelli/ai-agent:latest
 
 ## Roadmap
 
-- [x] Etapa 1 — CLI com Ollama
-- [x] Etapa 2 — Agent com Tools
-- [x] Etapa 3 — RAG
-- [x] Etapa 4 — Memória
-- [ ] Etapa 5 — Interface Web (Express + WebSocket)
+- [x] CLI com Ollama
+- [x] Agent com Tools
+- [x] RAG
+- [x] Memória
+- [ ] Interface Web (Express + WebSocket)
 - [x] Docker
 - [x] CI/CD
 - [ ] PostgreSQL
